@@ -20,3 +20,4 @@ https://github.com/phuongnam12a4gt/Excercise1
 ## Extensions Function:
 - Đây là 1 hàm dùng để mở rộng cho 1 lớp ,chứ ko phải thêm thành viên mới của 1 lớp .Thông thường nếu extensions function vs member function trùng tên thì nó sẽ ưu tiên thằng member function.
 - 1 extension nó sẽ gửi đi dạng tĩnh,nó có thể trả về giá trị null.Extension Functions nó có thể nằm phía trong lớp ,1 extensions functions .Extension nó củng có thể mở rộng trong companion object.
+- Extension củng có thể mở rộng thuộc tính.
